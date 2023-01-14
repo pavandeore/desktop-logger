@@ -1,6 +1,8 @@
 # fancy-desktop-logger
 
-fancy-desktop-logger is javascript library which will display your console log messages on desktop You don't need to open dev tools!
+fancy-desktop-logger is javascript library which will display your console log messages on desktop You don't need to open dev tools!.
+
+It extends the existing console.log functionality so, you actually don't need to do anything except adding this cdn at the top!
 
 
 ## IMPORTANT
@@ -21,7 +23,7 @@ Use the package manager using CDN .
 
 ```bash
 
-https://unpkg.com/fancy-desktop-logger@1.1.1/index.js
+https://unpkg.com/fancy-desktop-logger@1.1.2/index.js
 
 ```
 
